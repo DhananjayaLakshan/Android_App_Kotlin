@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TUTE04</string>
+    <string name="hntName">Enter Name</string>
+    <string name="btnWelcome">Welcome</string>
+    <string name="btnGoodBye">Good Bye</string>
+
+    <string name="msg1">Welcome</string>
+    <string name="msg2">Good Bye</string>
+</resources>
