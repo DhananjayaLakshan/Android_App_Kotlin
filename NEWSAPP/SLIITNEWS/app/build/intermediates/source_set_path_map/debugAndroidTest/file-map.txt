@@ -1,0 +1,6 @@
+com.example.sliit_news.test.app-annotation-experimental-1.3.0-0 C:\Users\Dhananjaya\.gradle\caches\transforms-3\294da22dd114b57273bb0de97bb01e70\transformed\annotation-experimental-1.3.0\res
+com.example.sliit_news.test.app-core-1.5.0-1 C:\Users\Dhananjaya\.gradle\caches\transforms-3\6d46f670e62448a4bcde895a87b71bdb\transformed\core-1.5.0\res
+com.example.sliit_news.test.app-androidTest-2 D:\MAD\SLIITNEWS Like Doto\SLIITNEWS\app\build\generated\res\resValues\androidTest\debug
+com.example.sliit_news.test.app-mergeDebugAndroidTestResources-3 D:\MAD\SLIITNEWS Like Doto\SLIITNEWS\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.sliit_news.test.app-mergeDebugAndroidTestResources-4 D:\MAD\SLIITNEWS Like Doto\SLIITNEWS\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.sliit_news.test.app-merged_res-5 D:\MAD\SLIITNEWS Like Doto\SLIITNEWS\app\build\intermediates\merged_res\debugAndroidTest

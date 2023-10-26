@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">SLIIT-NEWS</string>
+    <string name="tvTitle">BBC NEWS</string>
+    <string name="alertTitle">Add News</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="MAD_NEWS_APP">MAD NEWS APP</string>
+    <string name="btnHome">Home</string>
+    <string name="addBtn">Add</string>
+
+    <string name="hinTitle">Title</string>
+    <string name="hintDescri">Description</string>
+    <string name="hintDate">Date</string>
+
+    <string name="btnSport">SPORTS</string>
+    <string name="btnBusiness">BUSINESS</string>
+    <string name="btnPolitics">POLITICS</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="news_description">News Description</string>
+    <string name="news_date">News Date</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnCategory">CATEGORY</string>
+    <string name="bbcSport">BBC SPORT NEWS</string>
+    <string name="bbcPolitics">BBC POLITICS NEWS</string>
+    <string name="bbcBusiness">BBC BUSINESS NEWS</string>
+
+
+    <string-array name="colors">
+        <item>Blank</item>
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+        <item>Background 4</item>
+        <item>Background 5</item>
+    </string-array>
+
+</resources>

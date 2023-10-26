@@ -1,0 +1,13 @@
+#Wed Oct 18 11:31:44 IST 2023
+base.0=E\:\\WEB\\SLIITNEWS Like Doto\\SLIITNEWS\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=E\:\\WEB\\SLIITNEWS Like Doto\\SLIITNEWS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=E\:\\WEB\\SLIITNEWS Like Doto\\SLIITNEWS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\15\\classes.dex
+base.3=E\:\\WEB\\SLIITNEWS Like Doto\\SLIITNEWS\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=15/classes.dex
+path.3=5/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
