@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable remove_circle_24
+id btnAddItem
+id cbTodo
+id ivDelete
+id rvTodoList
+id textView
+id todo_row_item
+layout activity_main
+layout view_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string alertMsg
+string alertTitle
+string app_name
+string btnAdd
+string tvTodo
+style Base.Theme.TUTE09_DataBase
+style Theme.TUTE09_DataBase
+xml backup_rules
+xml data_extraction_rules

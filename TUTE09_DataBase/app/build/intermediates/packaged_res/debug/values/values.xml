@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="alertMsg">Enter the to do item below</string>
+    <string name="alertTitle">Enter Todo Item</string>
+    <string name="app_name">TUTE09_DataBase</string>
+    <string name="btnAdd">Add Item</string>
+    <string name="tvTodo">My Todo List</string>
+    <style name="Base.Theme.TUTE09_DataBase" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.TUTE09_DataBase" parent="Base.Theme.TUTE09_DataBase"/>
+</resources>
