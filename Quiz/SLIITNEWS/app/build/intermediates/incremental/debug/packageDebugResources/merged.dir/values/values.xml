@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="colors">
+        <item>Blank</item>
+        <item>Background 1</item>
+        <item>Background 2</item>
+        <item>Background 3</item>
+        <item>Background 4</item>
+        <item>Background 5</item>
+    </string-array>
+    <color name="addbtn">#B2DFDB</color>
+    <color name="background1">#00B8D4</color>
+    <color name="background2">#FF6D00</color>
+    <color name="background3">#AEEA00</color>
+    <color name="background4">#00BFA5</color>
+    <color name="background5">#2962FF</color>
+    <color name="bgAddView">#CAEBF4DF</color>
+    <color name="bgHeader">#26C6DA</color>
+    <color name="black">#FF000000</color>
+    <color name="btnCatogery">#A5D6A7</color>
+    <color name="title">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="MAD_NEWS_APP">MAD NEWS APP</string>
+    <string name="addBtn">Add</string>
+    <string name="alertTitle">Add News</string>
+    <string name="app_name">SLIIT-NEWS</string>
+    <string name="bbcBusiness">BBC BUSINESS NEWS</string>
+    <string name="bbcPolitics">BBC POLITICS NEWS</string>
+    <string name="bbcSport">BBC SPORT NEWS</string>
+    <string name="btnBusiness">BUSINESS</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="btnCategory">CATEGORY</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnHome">Home</string>
+    <string name="btnPolitics">POLITICS</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnSport">SPORTS</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hinTitle">Title</string>
+    <string name="hintDate">Date</string>
+    <string name="hintDescri">Description</string>
+    <string name="news_date">News Date</string>
+    <string name="news_description">News Description</string>
+    <string name="tePassWord">Password</string>
+    <string name="teReEnterPAss">Re enter password</string>
+    <string name="tvEmail">Email</string>
+    <string name="tvRegister">Register</string>
+    <string name="tvTitle">BBC NEWS</string>
+    <string name="tvUserName">User Name</string>
+    <style name="Base.Theme.SLIITNEWS" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SLIITNEWS" parent="Base.Theme.SLIITNEWS"/>
+</resources>
